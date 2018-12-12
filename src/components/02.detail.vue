@@ -215,6 +215,7 @@
     </div>
 </template>
 <script>
+import Vue from "vue"
 // import axios from "axios";
 // 已经迁移到 全局过滤器中了
 // import moment from 'moment';
